@@ -8,3 +8,5 @@ for (let i = 0; i < number.length; i++) {
     const num = number[i];
     console.log(num);
 }
+const c = 55;
+console.log(a,bc);
