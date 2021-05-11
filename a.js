@@ -9,4 +9,4 @@ for (let i = 0; i < number.length; i++) {
     console.log(num);
 }
 const c = 55;
-console.log(a,bc);
+console.log(a,b,c);
